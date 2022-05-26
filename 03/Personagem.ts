@@ -5,11 +5,10 @@
  */
 export class Personagem {
     public nome: string
-    public velocidade: number
+    public velocidade: number = 0
 
     constructor(nome: string) {
         this.nome = nome
-        this.velocidade = 0
     }
 
     andar(): string {
