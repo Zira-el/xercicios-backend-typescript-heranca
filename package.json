@@ -1,0 +1,24 @@
+{
+  "name": "aula02-exercicios-backend-typescript-heranca-master",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zira-el/xercicios-backend-typescript-heranca.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zira-el/xercicios-backend-typescript-heranca/issues"
+  },
+  "homepage": "https://github.com/Zira-el/xercicios-backend-typescript-heranca#readme",
+  "dependencies": {
+    "ts-node": "^10.8.0",
+    "typescript": "^4.7.2"
+  }
+}
